@@ -1,3 +1,40 @@
 body {
-    background-color: red;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  color: #f6f5f5;
+  margin-top: 10%;
+  padding: 0px;
+  background-color: #589d53;
+  text-align: center;
 }
+
+form {
+  margin: 40px;
+}
+
+button {
+  background-color: #92ca94;
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  font-size: 20px;
+  padding:10px 50px 10px 50px;
+  
+}
+
+#answers {
+  color: red;
+  margin: 50px;
+  font-size: 50px;
+}
+
+span {
+  color: red;
+  font-size: 50px;
+}
+
+#fname {
+ font-size: 50px;
+}
+
